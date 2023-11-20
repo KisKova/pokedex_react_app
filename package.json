@@ -2,7 +2,7 @@
   "name": "pokedex_react_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kiskova.github.io/pokedex_react_app",
+  "homepage": "https://pokedex_react_app.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
