@@ -7,7 +7,7 @@ import Pokemon from "./pages/Pokemon";
 
 function App() {
     return (
-        <Router basename='/pokedex_react_app'>
+        <Router basename='/'>
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/about" element={<About />} />
